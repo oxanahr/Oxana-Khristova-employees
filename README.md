@@ -1,5 +1,7 @@
 # Oxana-Khristova-employees
-Application that identifies the pair of employees who have worked together on common projects for the longest period of time.
+Application that identifies the pair of employees who have worked together on common projects 
+
+for the longest period of time.
 
 # Input data:
 
@@ -19,9 +21,11 @@ DateTo can be NULL, equivalent to today
 
 ...
 
-The user picks up a file from the file system and, after selecting it, all common projects of the pair are displayed in datagrid 
+The user picks up a file from the file system and, after selecting it, all common projects 
 
-with the following columns: Employee ID #1, Employee ID #2, Project ID, Days worked 
+of the pair are displayed in datagrid with the following columns: 
+
+Employee ID #1, Employee ID #2, Project ID, Days worked 
 
 # Sample output:
 
